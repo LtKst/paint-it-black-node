@@ -1,0 +1,17 @@
+{
+  "name": "math-game",
+  "version": "1.0.0",
+  "description": "A game to learn math with!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koen Sparreboom",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "socket.io": "^2.0.3"
+  }
+}
